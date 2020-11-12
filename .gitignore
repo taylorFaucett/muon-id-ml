@@ -3,3 +3,5 @@
 data/
 brute-force/
 cnn-images/
+__pycache__
+runs/
